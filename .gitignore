@@ -4,6 +4,7 @@
 *.obj
 *.elf
 *.ncb
+*.user
 
 # Precompiled Headers
 *.gch
@@ -32,6 +33,7 @@
 # Debug files
 *.dSYM/
 *.su
-/hooker/Debug
-/hooker/Release
-/hooker/*.user
+
+# Filter directories
+Debug/
+Release/
