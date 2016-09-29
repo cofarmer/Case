@@ -1,0 +1,2 @@
+LIBRARY	"ping"
+EXPORTS Ping @ 1
